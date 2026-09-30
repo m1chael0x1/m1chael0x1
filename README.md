@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey!
+
+My README is currently a work in progress, and I will add more later.
+
+I'm currently working on developing my skills to help me navigate my career in Cybersecurity. I will be posting my projects and discoveries on here as time goes on.
+
+As far as projects go, I am currently working on making my own SOC lab with Wazuh and Linux. 
 
 <!--
 **m1chael0x1/m1chael0x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
